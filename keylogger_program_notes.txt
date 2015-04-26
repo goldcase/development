@@ -1,0 +1,11 @@
+Keylogger:
+Log key input events with associated time. Calculate mean time between them.
+
+Playback:
+Triangular random distribution with mean times.
+
+Cool Stuff to add later:
+Pauses
+Backspaces (generate random word, backspace, continue with essay)
+Import .docx
+Typos
